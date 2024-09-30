@@ -1,0 +1,2 @@
+CNNs - In a neural network, just decide a filter (for example a 3x3 square where each square has some weight and we take the average over all to see whether something appears)
+Max pooling layer - ivides the input image into non-overlapping rectangular regions and outputs the maximum value for each region
